@@ -286,7 +286,7 @@ function create_config( )
     "pmLoad"
 
     },
-    sudo_users = {230477839,188751845,0,tonumber(our_id)},--Sudo users
+    sudo_users = {166111645,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
