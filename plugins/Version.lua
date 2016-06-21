@@ -3,22 +3,20 @@ do
 
 function run(msg, matches)
   return [[ 
-اسمارت ورژن:7.1 برنامه ریزی شده برپایه سید
+ساویور ورژن:7.1 برنامه ریزی شده برپایه سید
 
 مدل پردازنده:Intel Core i7
 تعداد هسته:2هسته
 رم:2گیگ رم
 مقدار فضا:60گیگ هارد SSD
 
-کانال تیم: @SmartTG_CH
-مدیریت اصلی: @XzX_ERPO_XzX
- مدیریت اصلی دوم: @XeX_ERPO_XeX
+کانال تیم: @savior_team
+مدیریت اصلی: @TheKing_eme
+ مدیریت اصلی دوم: @TheKing_1995
 قدرت برگرفته از:
- #SmartTG
+ #saviorTG
  
-تشکر ویژه از:
-Mehdi
-MohamdReza
+تشکر ویژه از:poya jan
  و سایرافراد...]]
 end
 
@@ -28,13 +26,13 @@ return {
   patterns = {
     "^[Vv]er$",
     "^[Vv]ersion$",
-    "^!smart$",
-    "^%smart$",
-    "^$smart$",
-   "^#Smart$",
-   "^#Smart$",
-   "^/smart$",
-   "^#smart$",
+    "^!savior$",
+    "^%savior$",
+    "^$savior$",
+   "^#savior$",
+   "^#savior$",
+   "^/savior$",
+   "^#savior$",
   }, 
   run = run 
 }
