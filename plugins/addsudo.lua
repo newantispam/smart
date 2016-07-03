@@ -15,7 +15,7 @@ return {
 description = "Add my sudo with you",
 usage = {
 user = {
-" List Help For SmartTG:",
+" List Help For saviorTG:",
 "Developed by : @theking_1995",
 },
 moderator = {
