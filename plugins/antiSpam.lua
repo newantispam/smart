@@ -135,13 +135,13 @@ local function pre_process(msg)
           local print_name = user_print_name(msg.from):gsub("‮", "")
 		  local name = print_name:gsub("_", "")
           --Send this to that chat
-          send_large_msg("chat#id"..msg.to.id, "> کاربر [ "..name.." ]"..msg.from.id.." ازتمامی گروه ها و سوپر گروه های @SmartTG به طور همگانی مسدود شد(اسپم)")
-		  send_large_msg("channel#id"..msg.to.id, "> کاربر [ "..name.." ]"..msg.from.id.." ازتمامی گروه ها و سوپر گروه های @SmartTGبه طور همگانی مسدود شد(اسپم)")
+          send_large_msg("chat#id"..msg.to.id, "> کاربر [ "..name.." ]"..msg.from.id.." ازتمامی گروه ها و سوپر گروه های @Savior_teamه طور همگانی مسدود شد(اسپم)")
+		  send_large_msg("channel#id"..msg.to.id, "> کاربر [ "..name.." ]"..msg.from.id.." ازتمامی گروه ها و سوپر گروه های @Savior_team طور همگانی مسدود شد(اسپم)")
           local GBan_log = 'GBan_log'
 		  local GBan_log =  data[tostring(GBan_log)]
 		  for k,v in pairs(GBan_log) do
 			log_SuperGroup = v
-			gban_text = "> کاربر [ "..name.." ] ( @"..username.." )"..msg.from.id.." ازتمامی گروه ها و سوپرگروه های @SmartTG به طور کلی مسدود شد! ( "..msg.to.print_name.." ) [ "..msg.to.id.." ] (#اسپم)"
+			gban_text = "> کاربر [ "..name.." ] ( @"..username.." )"..msg.from.id.." ازتمامی گروه ها و سوپرگروه های @Savior_teamه طور کلی مسدود شد! ( "..msg.to.print_name.." ) [ "..msg.to.id.." ] (#اسپم)"
 			--send it to log group/channel
 			send_large_msg(log_SuperGroup, gban_text)
 		  end
