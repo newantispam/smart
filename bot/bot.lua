@@ -283,7 +283,9 @@ function create_config( )
     "updater",
     "whitelist",
     "msg_checks",
-    "pmLoad"
+    "pmLoad",
+    "warn",
+    "warn2"
 
     },
     sudo_users = {166111645,0,tonumber(our_id)},--Sudo users
