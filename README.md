@@ -1,4 +1,4 @@
-# [savior_team](https;//telegram.me/savior_team) > [GitHub](https://github.com/newantispam) | [Site](http://.) |  [Channel](https://telegram.me/smarttg_ch)
+# [savior_team](https;//telegram.me/savior_team) > [GitHub](https://github.com/newantispam) | [Site](http://.) |  [Channel](https://telegram.me/savior_team)
 * * *
 *New Bot For Manage Your SuperGroups.
 
@@ -9,7 +9,7 @@
 *For Kill a process > fires press "w" then  fuser -k /dev/pts/num
 
 * * *
-# [SmartTG](https://telegram.me/savior_team) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
+# [savior_team](https://telegram.me/savior_team) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
 # F A S T & S M A R T
 
 * * *
