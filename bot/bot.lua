@@ -218,7 +218,6 @@ function create_config( )
     "Info",
     "Info_r",
     "Invite",
-    "Map",
     "Version",
     "Weather",
     "Web_Shot",
@@ -284,7 +283,7 @@ function create_config( )
     "whitelist",
     "msg_checks",
     "pmLoad",
-    "warn"
+    "warn2"
 
     },
     sudo_users = {166111645,0,tonumber(our_id)},--Sudo users
