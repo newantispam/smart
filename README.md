@@ -1,4 +1,4 @@
-# [SmartTG](https;//telegram.me/smarttg) > [GitHub](https://github.com/GrayHatP) | [Site](http://smarttg.ir) |  [Channel](https://telegram.me/smarttg_ch)
+# [savior_team](https;//telegram.me/savior_team) > [GitHub](https://github.com/newantispam) | [Site](http://.) |  [Channel](https://telegram.me/smarttg_ch)
 * * *
 *New Bot For Manage Your SuperGroups.
 
@@ -9,7 +9,7 @@
 *For Kill a process > fires press "w" then  fuser -k /dev/pts/num
 
 * * *
-# [SmartTG](https://telegram.me/smarttg) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
+# [SmartTG](https://telegram.me/savior_team) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
 # F A S T & S M A R T
 
 * * *
@@ -266,7 +266,7 @@ BlackPlus has several commands that are only usable at certain ranks.
 
 Each higher status inherits the privileges of the lower status.
 
-**You can use "#", "!", or "/" to begin all commands
+**You can use "#", "!", or "/" to begin all commands   @savior_team
 
 * * *
 
@@ -280,17 +280,18 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/mehdi-hs/BlackPlus.git
-cd BlackPlus
+git clone https://github.com/.../....git
+cd ...
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
 ```
 ### One command
+@savior_team
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/mehdi-hs/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/.../BlackPlus.git && cd .... && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -324,16 +325,12 @@ Create a realm using the `!createrealm` command.
 
 # Our team!
 
-[Pouya ERPO](https://github.com/GrayHatp) ([Telegram](https://telegram.me/XzX_ERPO_XzX))
+[@TheKing_eme](https://github.com/newantispam) ([Telegram](https://telegram.me/TheKing_eme))
 
-[Erfan ERPO] ([Telegram](https://telegram.me/XeX_ERPO_XeX))
-
-[Mahdi] ([Telegram](https://telegram.me/theking_1995))
-
-[MohamadReza] ([Telegram](https://telegram.me/Us_Mw))
-
-[Mohamad] ([Telegram](https://telegram.me/Mr_lua))
+[medhi]
 
 ###  Telegram channel :
 
-[@SmartTG_CH](https://telegram.me/SmartTG_CH)
+[@savior_team](https://telegram.me/savior_team)
+
+SAVIOR TEAM----->@savior_team
